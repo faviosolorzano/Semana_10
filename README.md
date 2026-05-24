@@ -30,22 +30,22 @@
 
 ### 1 Proyecto limpio 
 
-![](./doc/1f.png)
+![](./doc/1d.png)
 
 ### 2 Creaccion de componente
 
-![](./doc/2f.png)
+![](./doc/2d.png)
 
 ### 3 Implementacion de Props
 
-![](./doc/3f.png)
+![](./doc/3d.png)
 
 ### 4 Componente con Estados
 
-![](./doc/4f.png)
+![](./doc/4d.png)
 
 ### 5 Actualizar estados con eventos
 
-![](./doc/5f.png)
+![](./doc/5d.png)
 
 
